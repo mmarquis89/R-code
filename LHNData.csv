@@ -1,0 +1,111 @@
+Class,Type,LineName,CellNum,Strength,Density,Comments
+LH-PN,1,12A11,5,3,2.5,LexA version seems not to label these cells
+LH-PN,1,12B08,Many,2,1.5,
+LH-PN,1,12E09,5,2,2.5,
+LH-PN,1,37F03,5,3,3,
+LH-PN,1,37F06,3,3,3,Mixup? Doesn't look at all as described
+LH-PN,1,37G11,5,3,3,LexA is dimmer but probably best type 1 option
+LH-PN,1,38A12,5,2,2.5,
+LH-PN,1,41F09,3,2.5,2.5,
+LH-PN,1,48F03,20,2,2.5,Type 1 line from MF's paper
+LH-PN,1,59G07,3,2,2.5,LexA very dim
+LH-PN,1,70D02,15,2.5,2.5,
+LH-PN,1,72B11,5,2,2.5,
+LH-PN,1,72F05,5,2,2.5,
+LH-PN,1,73B12,10,2.5,2.5,Type 1 line from MF's paper
+LH-PN,1,73C07,5,3,3,
+LH-PN,1,77H09,5-10,3,3,
+LH-PN,1,80B02,5-10,2,2.5,
+LH-PN,1,89G07,3-5,2,2,
+LH-PN,2,12H12,15,2,2,Type 2 from MF's paper - LexA decent but a bit dim (JJ has it)
+LH-PN,2,14E05,2,2.5,2,
+LH-PN,2,16B01,20,2.5,2,
+LH-PN,2,26A01,Many,2.5,1.5,Looks pretty good
+LH-PN,2,26C12,3-5,2,2.5,
+LH-PN,2,44G08,20,3,2.5,Type 2 line from MF's paper
+LH-PN,2,46E11,3,2,3,
+LH-PN,2,59F02,10,2,2.5,"AL-LNs heavily labeled, but generally looks good - JJ has this"
+LH-PN,2,77D09,?,1.5,Uncertain,
+LH-PN,2,84G01,10,2.5,2,
+LH-PN,2,85C03,5,2.5,2.5,
+LH-PN,2,87B07,20,2.5,1.5,
+LH-PN,2,94B04,30,3,2,
+LH-PN,3,11E08,20,3,2.5,
+LH-PN,3,12G10,20,1.5,2,
+LH-PN,3,13G01,5,1.5,3,
+LH-PN,3,14D11,15,2.5,2.5,
+LH-PN,3,17B08,5,3,3,"WT has Gal4. These are MM's ""Type 5"" LH-PNs."
+LH-PN,3,23H04,15,3,3,"LexA looks okay, but only labels ~5 cells per side"
+LH-PN,3,28A10,20,3,2.5,
+LH-PN,3,41F07,20,2.5,2.5,
+LH-PN,3,47F12,20,2.5,2.5,LexA doesn't appear to label these cells
+LH-PN,3,51H04,,2,2,
+LH-PN,3,52H12,25,2,2.5,
+LH-PN,3,64B11,20,2,2.5,"LexA seems pretty dim, labels fewer cells"
+LH-PN,3,74B08,10,3,2.5,
+LH-PN,3,77B10,30,1.5,1.5,
+LH-PN,3,89D04,10,2.5,2.5,
+LH-PN,3,89G02,~3,2.5,2.5,
+LH-PN,4,17F03,10,3,2.5,LexA pretty dim
+LH-PN,4,19E06,10,2.5,2.5,LexA doesn't label these cells
+LH-PN,4,20H10,10,2,2,Looks decent
+LH-PN,4,21G11,10,3,2.5,
+LH-PN,4,31C04,10,3,3,WT has Gal4
+LH-PN,4,41F11,10,2.5,2.5,
+LH-PN,4,47G10,10,2,2.5,Very bright! Probably best type 4 lexA
+LH-PN,4,58F11,5,2,2.5,Super dim
+LH-PN,4,64C05,5-10,3,2.5,"Bright, looks good"
+LH-PN,4,84A06,20-30,2.5,2.5,
+LH-PN,4,91F03,10,3,3,
+LH-PN,1 + 3,13A02,5 + 10,2,2,
+LH-PN,1 + 3,16C09,? + 20-30,3,2.5,"Type 1 not really visible, would work for type 3. WT has Gal4."
+LH-PN,1 + 5 (MBV2),48B11,?,2,2,
+LH-PN,2 (variable),13B11,20,3,2,
+LH-PN,2 (variable),16E03,2,2,2.5,JJ has this
+LH-PN,2 + multi-PNs,16C06,10,1.5,2.5,
+LH-PN,3 or 5,18C11,5,2.5,2.5,
+LH-PN,3 or MBV2,53B06,30,2,2.5,
+LH-PN,4 or 3,48E02,5-10,2,2,
+LH-PN,4 or MBV2,33E02,20,3,2.5,
+LH-PN,4 or MBV2,34C04,20,3,2.5,
+LH-PN,4 or MBV2,38D01,20,3,2.5,
+LH-LN,1,10H02,5,2,2.5,Heavily labels MB. May include LH-PNs.
+LH-LN,1,25A01,20,3,3,Not GABAergic
+LH-LN,1,30A10,,,,Very crowded…not sure if any of these are really LNs
+LH-LN,1,68D02,,,,Only labels AL-PNs as far as I can tell
+LH-LN,1,73D03,3,3,2,Looks good in the LH…Posterior cell bodies
+LH-LN,1,76C08,10,2.5,2,"Generally good, but may be hard to target reliably"
+LH-LN,1,82E01,3-5,2.5,3,"Decent, but could be some minor interference"
+LH-LN,1,85H08,,,,
+LH-LN,1,86A05,5,3,3,"Pretty specific, but also labels a PN (poss. iPN?) WT has Gal4."
+LH-LN,1,95F09,10,2.5,2.5,Might be some LH-PNs as well
+LH-LN,2,11A01,1,1.5,3,No apparent LN presence
+LH-LN,2,11A03,5-10,3,2.5,LexA only?
+LH-LN,2,11A03,5-10,3,2.5,LexA only?
+LH-LN,2,22F03,11-15,2,2.5,Also labels a bunch of iPNs
+LH-LN,2,23C09,15,2.5,1.5,
+LH-LN,2,23F06,30,2.5,2,Not very specific
+LH-LN,2,30C08,15,2.5,2,May include LH-PNs
+LH-LN,2,30E07,20-30,2.5,2,
+LH-LN,2,32F09,10,2,2.5,
+LH-LN,2,34G01,20,2.5,3,Might not all be LNs
+LH-LN,2,44C06,20,1.5,2,
+LH-LN,2,44D05,10,2,2,Dim but very clean…looks like <10 cells to me
+LH-LN,2,46F04,10,2.5,3,
+LH-LN,2,51F06,5,2.5,2.5,"Appears to also include 1 iPN, but otherwiseI think LH is clean"
+LH-LN,2,66B09,20,2,2,Very busy. Quite possibly labels some LH-PNs as well.
+LH-LN,2,69F07,5-10,2,3,Look more like LH-PNs to me
+LH-LN,2,82F03,30-40,2,2,At least some are definitely not LNs
+LH-LN,2,84F01,10,2,2.5,Pretty busy
+LH-LN,2,84F07,20,1.5,2,Unclear…may be LH-PNs
+LH-LN,2,84G08,10,2,2.5,"Busy, but definitely looks local"
+LH-LN,2,84G12,20,3,3,
+LH-LN,2,87A04,2,1,3,Looks like it includes some LH-PNs
+LH-LN,2,93D03,20,2.5,2,Pretty busy…hard to be sure all are LNs
+LH-LN,3,85C01,5,2.5,2.5,Might include a few PNs
+LH-LN,3,86E06,2,2.5,2.5,Appear to also have projections out of LH
+LH-LN,1 + 2,22B02,5 + 5,2.5,2,
+LH-LN,1 + 2,49G09, 10 + 20,2.5,2,
+LH-LN,2 + multi-PNs,93D02,25 + 10,3,2.5,
+Both,2 + Local,79C09,1-15,2,2,
+Both,LH-PN 2 + Local 2,93E08,15-20 + 20,3 + 2.5,1.5,JJ has this

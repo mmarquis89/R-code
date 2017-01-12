@@ -1,0 +1,61 @@
+SortKey,Supercluster,Cluster,MorphGroup,Region,Exemplar,Notes
+1,XVII,28,1,"SLP, PLP, SMP, smp",fru-M-700179,
+2,XVII,100,2,"SLP, PLP, SMP",fru-M-300168,"Very similar to cluster 28, but more cells. A few extend processes to the smp."
+3,XVII,109,3,"SMP, PLP?, ICL?, SCL?",fru-M-500088,"Interesting and distinct ring-like arborizations along the LH-SMP, SMP-PLP borders and around the MB Ped."
+4,XVII,167,4,"SLP, PLP, ICL, SCL, SMP",Trh-M-100074,Wraps around MB peduncle and innervates specific portions of SLP and SMP.
+5,XVII,472,5,"SLP, PLP?",fru-F-700078,"Maybe local to SLP, or may also be in superior PLP a bit."
+6,XVII,623,6,"SLP, SMP",fru-F-300016,
+7,XIX,10,7,"SIP, SMP, sip",fru-M-000174,A couple also go to smp. Very specific innervation of the posterior-medial arm of the SMP.
+8,XIX,36,8,"SMP, SIP?",fru-M-200340,Dense arborization throughout SMP and (I think) also SIP.
+9,XIX,83,9,"FB, SMP, SLP?",TH-M-300024,Arborizes in the FB and along the posterior SMP/SLP border. See cluster 189.
+10,XIX,189,9,,TH-M-200006,
+11,XIX,887,9,,Trh-F-100046,
+12,XIX,95,10,"SMP, FLA?",fru-M-000064,"Versy dense innervation of SMP, with a specific projection to a small area that I think is the doral tip of the FLA."
+13,XIX,107,11,"SMP, CRE, cre",fru-M-600033,Hard to tell exactly where this is. Similar to cluster 186.
+14,XIX,186,11,,TH-M-600001,
+15,XIX,141,12,"FB, SLP",Trh-M-400106,Large cluster innervating FB and posterior SLP.
+16,XIX,196,13,,TH-M-300047,
+17,XIX,206,14,,Trh-M-000018,
+18,XIX,584,15,,G0239-F-000009,
+19,XIX,638,16,,fru-F-400079,
+20,XIX,663,17,,Tdc2-F-200026,
+21,XIX,853,18,,TH-F-200037,
+22,XIX,848,19,,TH-F-700007,
+23,XIX,867,19,,TH-F-100077,
+24,XIX,871,19,,TH-F-600003,
+25,XIX,875,20,,Trh-F-100018,
+26,XIX,880,21,,Trh-F-500020,
+27,XIX,890,21,,Trh-F-300054,
+28,XVIII,22,22,,fru-M-300288,
+29,XVIII,30,22,,fru-M-000203,
+30,XVIII,81,22,,fru-M-100203,
+31,XVIII,165,23,,Trh-M-500167,
+32,XVIII,885,23,,Trh-F-200059,
+33,XVIII,573,24,,VGlut-F-000523,
+34,XVIII,578,25,,VGlut-F-500688,
+35,XVIII,856,25,,TH-F-200079,
+36,XVIII,1025,25,,VGlut-F-000057,
+37,XVIII,825,26,,VGlut-F-200355,
+38,X,90,27,,fru-M-200156,
+39,X,92,27,,fru-M-100103,
+40,X,225,27,,fru-F-300124,
+41,X,140,28,,Trh-M-900037,Local-ish VLP neurons
+42,X,171,28,,Trh-M-000046,
+43,X,216,28,,fru-F-800061,
+44,X,641,28,,fru-F-600033,
+45,X,846,28,,Trh-F-700028,
+46,X,895,28,,Trh-F-600027,
+47,X,883,28,,Trh-F-200050,
+48,X,180,29,,Trh-M-900013,
+49,X,200,30,,TH-M-000060,
+50,X,876,30,,Trh-F-100023,
+51,X,212,31,,Trh-M-700003,
+52,X,805,31,,Trh-F-500193,
+53,X,250,32,,Gad1-F-700054,
+54,X,572,32,,VGlut-F-000521,
+55,X,300,33,,fru-F-500206,
+56,X,321,34,,Cha-F-600151,
+57,X,829,35,,VGlut-F-000436,
+58,X,998,36,,VGlut-F-100009,*These appear to be the 39D07-style VLP LHNs
+59,X,1038,37,,VGlut-F-000111,
+60,X,1049,38,,VGlut-F-000177,

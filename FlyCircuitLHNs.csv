@@ -1,0 +1,298 @@
+FlyCircuit_ID,Available_in_Jefferis_data,Target_region, Similar_Gal4_line,Cell_body_location,LH_Coverage,Type,Description
+5HT1A-F-300019,No ,SIP?,,D-P,D,Unusual,Unusual morphology. In dorsal LH only. Dorsal-Posterior cell body.
+5HT1A-F-300034,No ,LH,25A01,P-L,D,LN-1,Dorsal LH only
+Cha-F-000048,Yes,SLP,,L-A,,PN-4,Lateral-anterior cell body.
+Cha-F-000158,Yes,SLP,NP6099,A-V,,PN-4,
+Cha-F-000193,Yes,LH,23F06,A-L,V-M,LN-2,V-M LH only
+Cha-F-000242,Yes,VLP,,A-V,V,PN-3,
+Cha-F-000258,Yes,SLP,,A,D,PN-4,Dorsal LH only
+Cha-F-000278,Yes,SLP,,V-P,D,Atypical-5,Very unusual…posterior and very ventral cell body. Dense arborization in upper 2/3 of LH.
+Cha-F-000317,Yes,SMP,28A10,P,,PN-1,
+Cha-F-000427,No ,SIP,21G11,P,,PN-1,
+Cha-F-000461,No ,VLP/SLP/SMP/Others?,,V-D,,Unusual,Unusual morphology
+Cha-F-000485,No ,SLP,25A01?,P-L,,Unclassified,"Mostly in LH, but a loop goes out into the SLP. P-L cell body."
+Cha-F-000524,No ,LH,,A,,Unusual,Unusual morphology…very dense arborization throughout the LH. Anterior cell body.
+Cha-F-000533,No ,SLP/slp,,A/D/M,D,Unusual,Unusual morphology. Dorsal LH only. Projects to SLP and slp.
+Cha-F-100001,Yes,slp,,A-D-M,D,Atypical-6,Unusual morphology. Dorsal LH only. Projects to contralateral SLP.
+Cha-F-100028,Yes,SLP,,P,V,PN-5,Posterior cell body. Only in ventral LH. Targets lateral border of SLP
+Cha-F-100068,Yes,SLP,28A10?,P,,PN-1,
+Cha-F-100083,Yes,SIP?,,P,D-M,PN-1,Mostly D-M LH
+Cha-F-100141,Yes,SLP,,P,D,PN-1,Posterior cell body. Mostly in dorsal half of LH
+Cha-F-100223,Yes,SLP,,,,Atypical-7,Unusual morphology. Very dense arborization in the LH
+Cha-F-100370,No ,VLP,,A-V,V,PN-3,
+Cha-F-100412,No ,LH,25A01,P-L,,LN-1,
+Cha-F-100457,No ,SIP/SMP?,,P,,Unclassified,
+Cha-F-200082,Yes,SLP,28A10?,P,,PN-1,
+Cha-F-200169,Yes,SLP,,P,V,PN-1,Posterior cell body. Mostly in ventral half of LH
+Cha-F-200185,Yes,SLP,NP6099,A-V,,PN-4,
+Cha-F-200186,Yes,SLP,,P,V,PN-1,Posterior cell body. Mostly in ventral half of LH
+Cha-F-200201,Yes,VLP,,A-V,V,PN-3,
+Cha-F-200282,Yes,LH,23F06,A-L,,LN-2,
+Cha-F-200385,No ,LH,23F06,A-L,,LN-2,
+Cha-F-200387,No ,SLP,NP6099?,A-V,,PN-4,
+Cha-F-200398,No ,SLP,,P,,PN-1,Posterior cell body
+Cha-F-200402,No ,SIP,21G11,P,,PN-1,
+Cha-F-300146,Yes,LH,23F06?,A-L,D,LN-2,Mostly in dorsal LH
+Cha-F-300186,Yes,LH,25A01,P-L,V-L,LN-1,V-L LH only
+Cha-F-300204,Yes,SLP/SIP?,,P,,PN-1,Posterior cell body
+Cha-F-300221,Yes,LH,25A01,P-L,,LN-1, 
+Cha-F-300241,Yes,SIP,21G11,P,,PN-1,
+Cha-F-300258,Yes,SLP,,,D-L,LN-3,Mainly in D-L part of LH.
+Cha-F-300272,Yes,SLP,,D-A,,PN-4,D-A cell body right next to LH neuropil
+Cha-F-300352,No ,VLP,39D07,A-V,V,PN-6,Looks like the weird 39D07 cell that Jaime recorded from
+Cha-F-300357,No ,VLP,,A-V,V,PN-3,
+Cha-F-400151,Yes,SLP,NP6099,A-V,D,PN-4,Mostly Dorsal LH
+Cha-F-400179,Yes,SIP,21G11,P,,PN-1,
+Cha-F-400222,Yes,LH,,P-V,V,LN-4,Very ventral cell body. Ventral LH only.
+Cha-F-400280,No ,SLP,NP6099?,A-V,,PN-4,
+Cha-F-400324,No ,SIP,21G11,P,,PN-1,
+Cha-F-500001,Yes,VLP,39D07,A-V,V,PN-6,Atypical VLP LHN
+Cha-F-500116,Yes,LH,,L,,LN-2,
+Cha-F-500138,Yes,SIP,21G11,P,D,PN-1,Dorsal LH only. Also seems to have some dendrites in the SLP.
+Cha-F-500187,Yes,SIP,21G11,P,D,PN-1,Dorsal LH only
+Cha-F-500234,No ,LH,25A01,P-L,,LN-1,
+Cha-F-500250,No ,SIP,21G11,P,,PN-1,
+Cha-F-500303,No ,SLP,,P-L,,PN-5,P-L cell body. Targets lateral SLP.
+Cha-F-600081,Yes,LH,25A01,P-L,,LN-1,
+Cha-F-600191,No ,LH,23F06,A-L,,LN-2,
+Cha-F-600207,No ,LH,25A01,P-L,,LN-1,
+Cha-F-600232,No ,SIP,21G11?,P,L,PN-1,Mostly lateral LH
+Cha-F-600238,No ,SMP/SIP?,,D-P,D,Unclassified,Mostly dorsal LH
+Cha-F-700026,Yes,LH/SLP?,,L,,LN-3,Spills a bit into SLP
+Cha-F-700110,Yes,SLP,,A-V-M,M,Atypical-8,Unusual morphology. Medial LH only.
+Cha-F-700112,Yes,VLP,,A-V,L,Atypical-9,Unusual morphology. Atypical VLP LHN. Lateral LH only.
+Cha-F-700211,No ,SLP?/SIP?,,P,,Unclassified,Posterior cell body
+Cha-F-700219,No ,SLP,NP6099,A-V,,PN-4,
+Cha-F-700242,No ,SLP,NP6099,A-V,,PN-4,
+Cha-F-700255,No ,LH,25A01,P-L,,LN-1,
+Cha-F-700271,No ,VLP,,A-V,V,PN-3,
+Cha-F-800011,Yes,SIP,21G11,P,,PN-1,
+Cha-F-800045,Yes,SLP,,P,,PN-1,Posterior cell body. Could possibly be going to SIP instead.
+Cha-F-800066,No ,VLP,39D07,A-V,V,PN-6,Atypical VLP LHN
+Cha-F-800067,No ,SLP,NP6099?,A-V,,PN-4,
+Cha-F-800078,No ,SLP,NP6099,A-V,,PN-4,
+Cha-F-900046,No ,LH,25A01,P-L,,LN-1,
+E0585-F-300013,No ,SLP,,P,,PN-1,Posterior cell body. Projects to medial SLP.
+E0585-F-300033,No ,SLP,,P,,PN-1,Posterior cell body. Projects to medial SLP.
+E0585-F-300040,No ,SLP,,P,,PN-1,Posterior cell body. Projects to medial SLP.
+E0585-F-300043,No ,SLP,,P-V,,PN-1,
+E0585-F-300047,No ,SLP,,P,,PN-1,Posterior cell body. Projects to medial SLP.
+E0585-F-300052,No ,SLP,,P,,PN-1,
+E0585-F-300056,No ,SLP,,P-L,V,PN-5,P-L cell body. Ventral LH only. Projects to lateral SLP
+E0585-F-300058,No ,SLP,,P,,PN-1,Posterior cell body. Projects to medial SLP.
+E0585-F-300064,No ,SLP,,P,V,PN-1,Mostly ventral LH
+E0585-F-300070,No ,SLP,,P,D,PN-1,Mostly dorsal LH
+E0585-F-300071,No ,SLP,,P,,PN-1,Posterior cell body. Projects to medial SLP.
+E0585-F-300073,No ,SLP,,P,,PN-1,Posterior cell body. Projects to medial SLP.
+E0585-F-400002,No ,SLP,,P,,PN-1,Posterior cell body. Projects to medial SLP.
+E0585-F-400005,No ,SLP,,P,,PN-1,Posterior cell body. Projects to medial SLP.
+E0585-F-400008,No ,SLP,,P,,PN-1,Posterior cell body. Projects to medial SLP.
+E0585-F-400009,No ,SLP,,P,D,PN-1,Mostly dorsal LH
+E0585-F-400013,No ,SLP,,P,,PN-1,Posterior cell body. Projects to medial SLP.
+E0585-F-400018,No ,SLP,,P,,Unclassified,"Somewhat confusing, but seems to have a posterior cell body and 28A10-like morphology"
+E0585-F-400025,No ,SLP,,P,,PN-1,Posterior cell body. Projects to medial SLP.
+E0585-F-500008,No ,SLP,,P-V,,PN-1,
+E0585-F-500009,No ,SLP,,P-V,D,PN-1,Mostly dorsal LH
+E0585-F-600002,No ,SLP,,P-L,V,PN-1,Mostly ventral LH
+fru-F-200122,No ,LH,,,,LN-3,Mostly local but spills out a bit into the SLP
+fru-F-200126,Yes,SLP,,V-L,,Atypical-10,
+fru-F-400011,Yes,LH,25A01,P-L,V-L,LN-1,V-L LH only
+fru-F-400180,Yes,LH,25A01?,L,,LN-1,"Mostly lateral cell body, but neurite comes out the posterior side"
+fru-F-400319,No ,SLP,NP6099?,A-V,,PN-4,
+fru-F-400357,No ,VLP,,A-V,V,PN-3,
+fru-F-500099,Yes,LH,23F06,A-L,,LN-2,
+fru-F-500099,Yes,LH/SLP,23F06?,A-L,,LN-3,Spills into the SLP
+fru-F-500183,Yes,LH/SLP,23F06?,A-L,,LN-3,Spills into the SLP
+fru-F-500229,Yes,LH,23F06,A-L,,LN-2,
+fru-F-600043,Yes,LH,23F06,A-L,,LN-2,
+fru-F-600103,Yes,VLP,,A-V,V,PN-3,
+fru-F-600131,No ,LH,23F06,A-L,,LN-2,
+fru-F-700136,Yes,LH/SLP?,23F06,A-L,,LN-3,Spills out a bit into the SLP
+fru-F-800071,No ,SLP,23F06?,A-L,,Unclassified,"Mostly in LH, but spills a fair amount out into the SLP"
+Gad1-F-000006,Yes,SLP,23F06?,A-V,,LN-3,"Mostly in LH, but one neurite extends out into SLP. A-V cell body."
+Gad1-F-000079,Yes,LH,23F06,A-L,,LN-2,
+Gad1-F-000096,Yes,SLP,NP6099?,A-V,D,PN-4,Mostly Dorsal LH
+Gad1-F-000108,Yes,SLP?/slp?/lh?,,,,Atypical-11,"Very unusual morphology…dendrites(?) throughout LH, arborizes in SLP and projects a neurite through the contralateral SLP to the edge of the LH"
+Gad1-F-000125,No ,SLP,,P,,PN-1,
+Gad1-F-000132,No ,SLP,NP6099?,A-V,D,PN-4,Dorsal LH only
+Gad1-F-000139,No ,SLP,,P,,Unclassified,Odd morphology…somewhat reminiscent of 28A10.  Posterior cell body.
+Gad1-F-000155,No ,SLP,28A10?,P,D,PN-1,Mostly dorsal LH. Targets medial SLP.
+Gad1-F-000203,No ,SLP,,A-V,,Unusual,Unusual morphology.
+Gad1-F-000240,No ,SLP/SIP?,,A-V,,Unclassified,A-V cell body. Hard to tell exact target.
+Gad1-F-00029,No ,SLP,,A,,Unclassified,Anterior cell body. Targets medial SLP.
+Gad1-F-000338,No ,SIP,21G11,P,D,PN-1,Dorsal LH only
+Gad1-F-000393,No ,SIP?/SLP?,,P,,Unclassified,Confusing morphology. Posterior cell body.
+Gad1-F-100003,Yes,SLP,,P-M,,PN-1,
+Gad1-F-100023,Yes,SLP,,P,,PN-1,Splits into two branches in the medial SLP. Posterior cell body. Only in D-P lateral horn
+Gad1-F-100072,Yes,LH,23F06,A-L,,LN-2,
+Gad1-F-100072,Yes,LH,23F06,A-L,L,LN-2,lateral LH only
+Gad1-F-100091,No ,SIP/SLP?/VLP?,,,,Unclassified,"Main projection seems to be SIP, but there are either dendrites or axon terminals in neuropil just next to the LH."
+Gad1-F-100093,No ,SIP,21G11,P,D,PN-1,Dorsal LH only
+Gad1-F-100099,No ,SIP,21G11,P,D,PN-1,Mostly Dorsal LH
+Gad1-F-100132,No ,SLP,,P-L,,PN-1,
+Gad1-F-100154,No ,SLP,,P,V,PN-5,Ventral LH only. Posterior cell body. Projects to lateral SLP.
+Gad1-F-100168,No ,SLP?,,M-A,,Unclassified,Very medial and anterior cell body. Hard to tell if this is local to the LH or if it targets the lateral SLP.
+Gad1-F-100190,No ,SLP,,,,Unusual,Unusual morphology…very dense LH coverage and then just kind of spreads out into the SLP.
+Gad1-F-100225,No ,SLP,,A,D,Unclassified,Confusing morphology…seems to loop to the SLP and back. Very anterior cell body.  Dorsal LH only.
+Gad1-F-100247,No ,SIP?/SLP?,,P,D,Unclassified,Posterior cell body. Dorsal LH only. Targets either the SIP or the medial SLP.
+Gad1-F-100322,No ,SIP,21G11,P,D,PN-1,Dorsal LH only
+Gad1-F-100338,No ,LH,25A01,P-L,L,LN-1,Mostly lateral LH
+Gad1-F-100345,No ,LH,25A01,P-L,,LN-1,
+Gad1-F-100357,No ,SIP?/SLP?,,P,D,Unclassified,Hard to tell exactly where this is targeting. Dorsal LH only. Posterior cell body.
+Gad1-F-200039,Yes,SMP/SLP,,A-L,,Atypical-12,"Might project to both areas, but it looks more like it has denrites in both the SLP and the LH and then projects to the SLP.  A-L cell body."
+Gad1-F-200127,Yes,LH/SLP?/VLP?,,,,LN-3,"Mostly local, but spills out of the LH"
+Gad1-F-200144,Yes,SLP,NP6099,A-V,,PN-4,
+Gad1-F-200150,Yes,LH,,P-M,D,Atypical-13,Unusual morphology. Dorsal LH only.
+Gad1-F-200155,No ,LH/SLP?,23F06,A-L,,LN-3,A-L cell body. Appears to spill out of the LH a bit.
+Gad1-F-200156,No ,SLP,,A,,PN-4,Anterior cell body
+Gad1-F-200163,No ,LH,23F06,A-L,,LN-2,Full LH coverage
+Gad1-F-200199,No ,SIP,21G11,P,,PN-1,Posterior cell body
+Gad1-F-200220,No ,SIP,21G11,P,,PN-1,Posterior cell body
+Gad1-F-200223,No ,VLP,,A-V,V,PN-3,
+Gad1-F-200232,No ,SLP,,P,,PN-1,Posterior cell body. Dendrites throughout the LH
+Gad1-F-200234,No ,CRE?/SMP?,,P-D,D,Unclassified,P-D cell body. Hard to tell where it's going but seems too anterior to be the SMP. Dorsal LH only.
+Gad1-F-200237,No ,SLP,,A-V,D,Unclassified,Very anterior and ventral cell body. Only in Dorsal LH and a small part of the medial edge of the SLP
+Gad1-F-200255,No ,SLP,,P-V,,PN-1,P-V cell body.
+Gad1-F-200289,No ,SIP,21G11?,P,,PN-1,
+Gad1-F-200322,No ,SLP,,P-L,V,PN-1,P-L cell body. Only in ventral LH
+Gad1-F-200387,No ,VLP,,A-V,V,PN-3,
+Gad1-F-200395,No ,LH,,L-P,,Unclassified,Lateral-posterior cell body
+Gad1-F-200403,No ,SIP?,21G11?,P,,PN-1,Posterior cell body
+Gad1-F-300038,Yes,VLP,,A-V,V,PN-3,
+Gad1-F-300135,Yes,SLP,,P-L,D,PN-1,P-L cell body. Mostly in dorsal LH
+Gad1-F-300148,No ,SLP,,P-L,D,PN-1,P-L cell body. Mostly in dorsal LH
+Gad1-F-300155,No ,SLP,,P,,PN-1,Posterior cell body
+Gad1-F-300163,No ,SLP,,,,Unclassified,It's possible that it also targets the SIP
+Gad1-F-300184,No ,SIP,21G11,P,,PN-1,Posterior cell body
+Gad1-F-300262,No ,SIP,,A-D,L,Unclassified,Only in lateral LH
+Gad1-F-300298,No ,SIP,21G11,P,,PN-1,Posterior cell body
+Gad1-F-300321,No ,SLP,,,D,Unclassified,In dorsal LH only.
+Gad1-F-400156,No ,SLP,,,V,Unclassified,In ventral LH only. Seems to arborize broadly in the SLP.
+Gad1-F-400226,No ,SIP,21G11,P,,PN-1,Posterior cell body
+Gad1-F-400233,No ,SMP,,A-D,,Unclassified,A-D cell body. 
+Gad1-F-400255,No ,SLP/smp,,,,Unclassified,"Dendrites in LH, either axon or denrites in SLP, and axon in slp."
+Gad1-F-400275,No ,SLP?/SIP?,,,D,Unclassified,Hard to tell where this is exactly without NBLAST. Dendrites throughout dorsal LH.
+Gad1-F-400304,No ,SIP,21G11,P,,PN-1,Posterior cell body
+Gad1-F-400335,No ,SIP?,21G11?,P,D,PN-1,Posterior cell body. Dorsal LH only.
+Gad1-F-400436,No ,LH,23F06,A-L,L,LN-2,Only in lateral LH
+Gad1-F-500014,Yes,SIP/SMP,,A-D,,PN-7,"Projection looks like 73B12, but cell body is anterior and dorsal"
+Gad1-F-500023,Yes,SLP,,P,V-M,PN-1,Posterior cell body. Dendrites either in the V-M LH or not in the LH at all.
+Gad1-F-500089,Yes,VLP/MB-CA/CC,,V-P,V,Atypical-1,Posterior and very ventral cell body. Arborizes densely in the ventral LH and much of this half of the brain/
+Gad1-F-500105,No ,VLP,,A-V,V,PN-3,
+Gad1-F-500129,No ,SIP?/SLP?/SMP?,,,,Unclassified,"Forks somewher around the MB vertical lobe, so it's right on the border of everything. Could be in any combination of these regions."
+Gad1-F-500171,No ,SLP,,,M,Unclassified,Appears to be mainly in medial LH and target medial SLP
+Gad1-F-500178,No ,LH,25A01,P-L,,LN-1,
+Gad1-F-500180,No ,SIP?,21G11?,P,,PN-1,"Can't tell where this lies on the A-P axis, but seems consistent with a 21G11 type LH-PN"
+Gad1-F-500196,No ,SMP/SIP?/SLP?,,P,,Unclassified,Posterior cell body. Targets the SMP and either the SIP or medial SLP.
+Gad1-F-500244,No ,SIP?,,,,Unclassified,"Hard to tell exactly, but arborizes throughout LH and appears to target SIP"
+Gad1-F-500281,No ,LH,,P,,LN-1,Posterior cell body.
+Gad1-F-500338,No ,SLP,,P,,Unclassified,Posterior cell body. Dorsal LH only. Targets either the SIP or the medial SLP.
+Gad1-F-500363,No ,SLP,NP6099,A-V,,PN-4,
+Gad1-F-600125,No ,SLP,NP6099?,A-V,,PN-4,"Looks kind of like a type II LHN, but has a slightly weirder shape."
+Gad1-F-600143,No ,SLP,NP6099,A-V,,PN-4,Super standard type II LHN
+Gad1-F-600174,No ,VLP,,A-V,V,PN-3,
+Gad1-F-600189,No ,LH/VLP?,39D07,A,V,Unclassified,Anterior cell body. In ventral part of LH and goes down into the VLP. Somewhat like Jaime's weird atypical VLP neuron?
+Gad1-F-600202,No ,lh/mb-ca,,V,,Unclassified,"Cell body down below the AL. Denrites throughout LH and MB-CA, with axonal arborizations throughout lh and mb-ca. Very upsetting that I can't NBLAST this."
+Gad1-F-600205,No ,SMP?,,,,Unclassified,"Looks like it branches and projects to the SMP, but it's so lateral that it could be a LH local neuron as well."
+Gad1-F-600214,No ,SIP?/SLP?,,P,,Unclassified,Posterior cell body.
+Gad1-F-600241,No ,LH,23F06,A-L,,LN-2,
+Gad1-F-600244,No ,LH/SLP?,,A-V,,Unclassified,"A-V cell body. I think it projects to the lateral edge of the SLP, but could be local to the LH."
+Gad1-F-600252,No ,LH,,P,,LN-1,Posterior cell body.
+Gad1-F-600301,No ,?,,,,Unusual,Unusual morphology. Crosses the midline but it's hard to tell exactly where it goes without NBLAST.
+Gad1-F-600303,No ,VLP,,A-V,V,PN-3,
+Gad1-F-700032,Yes,SMP/SLP/smp,,,,PN-4,Seems to project to the ipsilateral SLP as well as small spots in the ipsi and contra SMP
+Gad1-F-700066,No ,SIP?/SLP?,,,,Unclassified,Really unclear what's going on or where soma is…maybe on top like 12H12? Definitely all around LH and in the SIP or medial SLP.
+Gad1-F-700076,No ,SLP/SIP?/SMP?,,,,Unclassified,"Projects to SMP or SIP, then loops back around to the SLP"
+Gad1-F-700100,No ,LH,,,,Unclassified,
+Gad1-F-700104,No ,LH,23F06,A-L,,LN-2,
+Gad1-F-700106,No ,LH,23F06,A-L,,LN-2,
+Gad1-F-700108,No ,LH,23F06?,A-L,,LN-2,"Hard to tell, but appears to be 23F06-style local neuron"
+Gad1-F-700139,No ,SIP?/SLP?,,,L,Unclassified,"Really hard to tell where this goes. Restricted arborization in the lateral LH, and seems like it might go to lateral SLP and SIP."
+Gad1-F-700151,No ,LH,25A01,P,,LN-1,Posterior cell body. Might spill out into the SLP a bit.
+Gad1-F-700243,No ,VLP,,A-V,V,PN-3,
+Gad1-F-700258,No ,LH,25A01,P,V,LN-1,Ventral LH only. Posterior cell body.
+Gad1-F-800028,Yes,LH/SMP?,23F06?,A-L,,LN-3,"Mostly local, but may spill into SMP a little bit. A-L cell body."
+Gad1-F-800082,Yes,SIP?,,A-L,D,PN-1,A-L cell body. In dorsal part of LH.
+Gad1-F-800100,No ,SLP,,A,,PN-5,Anterior cell body. Projects to lateral SLP.
+Gad1-F-800112,No ,SLP?,,A-L,,Unclassified,"Hard to tell whether this goes, but it looks like it broadly targets the SLP."
+Gad1-F-800137,No ,VLP,,A-V,V,PN-3,
+Gad1-F-800191,No ,VLP,,A-V,V,PN-3,
+Gad1-F-800214,No ,SLP,,V-A,V,Unclassified,Cell body is ventral like VLP LHNs. Arborizes in ventral LH and targets SLP.
+Gad1-F-800215,No ,SLP,,,,Unclassified,"Axon splits off into two main branches, but it looks like they're both in the SLP"
+Gad1-F-900040,Yes,SIP?/SLP?,,P,,Atypical-14,Posterior cell body. Appears to arborize in a ring around the MB vertical lobe or the SIP
+Gad1-F-900052,Yes,SLP,,P-M,V-L,PN-1,Posterior and medial cell body. V-L LH only.
+Gad1-F-900054,Yes,LH/SLP?,,M-P,,Atypical-15,Unusual morphology. Cell body is posterior and very medial. Arborizes throughout LH and appears to spill into the SLP.
+Gad1-F-900076,No ,SLP,,A,L,Unclassified,Anterior cell body. Lateral half of LH and spills out into the SLP.
+Gad1-F-900098,No ,SIP?/SLP?,,P,,Unclassified,Posterior cell body. Appears to arborize in a ring around the MB vertical lobe or the SIP
+Gad1-F-900137,No ,SIP,21G11,P,,PN-1,
+Gad1-F-900217,No ,VLP,,A-V,V,PN-6,Atypical VLP LHN…looks kind of like the one weird 39D07 one that Jaime saw
+TH-F-000012,Yes,VLP/SLP/MB-CA/SMP/SIP?,,V-P,,Atypical-2,Posterior and very ventral cell body. Arborizes densely throughout the dorsal part of the brain.
+TH-F-100046,Yes,SLP/SIP/SMP?/MB-CA/pVLP?,,,,Atypical-2,Dense and extensive arborization in entire dorsal part of the brain
+TH-F-300078,Yes,SMP/MB-CA/CC,,V-P,V,Atypical-1,Posterior and very ventral cell body. Arborizes densely in the ventral LH and much of this half of the brain/
+Trh-F-300041,Yes,,,V-P,V,LN-2,Posterior and very ventral cell body. Arborizes densely in the ventral LH and much of this half of the brain/
+VGlut-F-000366,Yes,VLP,,A-V,V,PN-3,
+VGlut-F-000390,Yes,SMP?,,,,Atypical-16,Unclear if this is actually in the LH at all
+VGlut-F-100009,Yes,VLP,,A-V,V,PN-3,
+VGlut-F-200015,Yes,SMP?,,,,Atypical-17,Unclear if this is actually in the LH at all
+VGlut-F-200021,Yes,"MB-CA, SLP?",,,V-M,Atypical-3,Unclear if it also projects to lateral SLP or if it's medial LH. Not in D-L LH.
+VGlut-F-200257,Yes,LH,,V-A,V,LN-4,Anterior and very ventral cell body. Ventral LH only.
+VGlut-F-200319,Yes,SLP,,A-D,,PN-4,A-D cell body.
+VGlut-F-200382,Yes,"MB-CA, SLP?",,,V-M,Atypical-3,Unclear if it also projects to lateral SLP or if it's medial LH. Not in D-L LH.
+VGlut-F-200389,Yes,LH,25A01,P-L,L,LN-1,Mostly restricted to lateral half of LH
+VGlut-F-200392,Yes,VLP,,A,V,Atypical-18,Anterior cell body. Arborizes densely throughout most of the VLP.
+VGlut-F-300265,Yes,SLP?,,,,Atypical-4,Targets the area around the MB vertical lobe…I think it's SLP but could be SIP
+VGlut-F-300393,Yes,LH,25A01,P-L,V-M,LN-1,"P-L cell body, only in ventral and medial LH"
+VGlut-F-300442,Yes,LH,,V-A,V,LN-4,Anterior and very ventral cell body. Ventral LH only.
+VGlut-F-300574,Yes,SLP,,P-L,,PN-5,"P-L cell body, targets lateral SLP"
+VGlut-F-400058,Yes,SIP?,21G11?,P,,PN-1,Posterior cell body
+VGlut-F-400084,Yes,SLP,,P-L,V,PN-1,"Posterior-lateral cell body, ventral LH only"
+VGlut-F-400166,Yes,LH,,V-A,V,LN-4,Cell body position looks like VLP LH-PNs. Only in ventral LH.
+VGlut-F-400170,Yes,SLP,,A-D,,PN-4,A-D cell body. V-M LH only (or could even not be in the LH)
+VGlut-F-400241,Yes,VLP,,A-V,V,PN-3,
+VGlut-F-400267,Yes,SLP,,A-D,,PN-4,A-D cell body.
+VGlut-F-400394,Yes,SLP,,P,L,PN-1,"Posterior cell body, mainly in lateral LH"
+VGlut-F-400535,Yes,VLP,,A-V,V,PN-3,
+VGlut-F-400863,Yes,SLP/VLP?,,A-D,,PN-4,A-D cell body. Also extends a single neurite of some sort into the VLP.
+VGlut-F-500032,Yes,SLP,,A-D,,PN-4,A-D cell body.
+VGlut-F-500113,Yes,SLP,,A-L,V,PN-3,A-L cell body. Ventral LH only. Projections throughout SLP.
+VGlut-F-500243,Yes,SLP,28A10?,P,V,PN-1,Only in ventral LH
+VGlut-F-500253,Yes,LH,25A01,P-L,,LN-1,
+VGlut-F-500255,Yes,VLP,,A-V,V,PN-3,
+VGlut-F-500269,Yes,VLP,,A-V,V,PN-3,
+VGlut-F-500378,Yes,VLP,,A-V,V,PN-3,
+VGlut-F-500399,Yes,SLP,,P-L,,PN-5,P-L cell body. Targets lateral SLP.
+VGlut-F-500411,Yes,SLP,,P,,PN-5,Posterior cell body. Targets lateral SLP.
+VGlut-F-500444,Yes,SLP,,A-L,V,PN-4,"A-L cell body, only in ventral LH"
+VGlut-F-500507,Yes,VLP,,A-V,V,PN-3,
+VGlut-F-500603,Yes,VLP,,A-V,V,PN-3,
+VGlut-F-500744,Yes,VLP,,A-V,V,PN-3,
+VGlut-F-500832,Yes,SLP,,A-L,V,Atypical-4,A-L cell body. Ventral LH only. Projections throughout SLP.
+VGlut-F-500847,Yes,VLP,,A-V,V,PN-3,
+VGlut-F-600059,Yes,LH,,V-A,V,LN-4,Anterior and very ventral cell body. Ventral LH only.
+VGlut-F-600069,Yes,VLP,,A-V,V,PN-3,
+VGlut-F-600072,Yes,VLP,,A-V,V,PN-3,
+VGlut-F-600078,Yes,VLP,,A-V,V,PN-3,
+VGlut-F-600081,Yes,VLP,,A-V,V,PN-3,
+VGlut-F-600090,Yes,LH,25A01,P-L,,LN-1,
+VGlut-F-600109,Yes,VLP,,A-V,V,PN-3,
+VGlut-F-600228,Yes,VLP,,A-V,V,PN-3,
+VGlut-F-600424,Yes,SLP,,A-D,D,PN-4,A-D cell body. Dorsal LH only
+VGlut-F-600516,Yes,VLP,,A-V,V,PN-3,
+VGlut-F-600598,Yes,VLP,,A-V,V,PN-3,
+VGlut-F-600716,Yes,SLP,,A-L,V,PN-4,"A-L cell body, only in ventral LH"
+VGlut-F-600752,Yes,LH,25A01,P-L,,LN-1,
+VGlut-F-600764,Yes,SLP,,P-L,D,PN-5,P-L cell body. Dorsal LH only. Targets lateral SLP.
+VGlut-F-700009,Yes,VLP,,A-V,V,PN-3,
+VGlut-F-700084,Yes,SLP,,P-L,D,PN-5,P-L cell body. Dorsal LH only. Targets lateral SLP.
+VGlut-F-700213,Yes,VLP,,A-V,V,PN-3,
+VGlut-F-700266,Yes,VLP,,A-V,V,PN-3,Classic VLP LHN
+VGlut-F-700284,Yes,VLP,,A-V,V,PN-3,
+VGlut-F-700360,Yes,SLP,,A-L,V-M,PN-4,"A-L cell body, only in V-M LH"
+VGlut-F-700430,Yes,LH,25A01,P,,LN-1,"Local neuron, posterior cell body"
+VGlut-F-700436,Yes,LH,25A01,P-L,L,LN-1,lateral LH only
+VGlut-F-700522,Yes,SLP,NP6099,A-V,,PN-4,Cell body quite dorsal for this morphology.
+VGlut-F-700602,Yes,SLP,,P-L,,PN-5,P-L cell body. Targets lateral SLP.
+VGlut-F-800054,Yes,SLP,,A-L,,Atypical-4,A-L cell body. Just sprawls out across SLP.
+VGlut-F-900028,Yes,SLP/SIP?,,P-L,V,Atypical-19,P-L cell body. Ventral LH only.
+VGlut-F-600773,Yes,VLP,39D07,A-V,V,PN-6,
+VGlut-F-600739,Yes,VLP,39D07,A-V,V,PN-6,
