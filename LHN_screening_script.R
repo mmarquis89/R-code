@@ -1,5 +1,5 @@
 
-setwd('C:/Users/Wilson Lab/Documents/R/R code')
+#setwd('C:/Users/Wilson Lab/Documents/R/R code')
 
 # Allow production of figures using RGL
 library(knitr)
@@ -14,7 +14,7 @@ library(nat.nblast)
 library(nat.flybrains)
 
 # Load data
-dps <-read.neuronlistfh('C://Users//Wilson Lab//Documents//R//R code//rpkg-flycircuit//data//dpscanon.rds')
+dps <-read.neuronlistfh('C://Users//Wilson Lab//Documents//R//rpkg-flycircuit//data//dpscanon.rds')
 LHNs <- read.csv("FlyCircuitLHNs.csv")
 clusterInfo <- read.csv("DownstreamClusters.csv")
 clusterList <- read.csv("DownstreamClusterList.csv")
@@ -63,7 +63,7 @@ while (TRUE){
   
   # DOWNSTREAM CLUSTERS (J)
   plot3dfc(as.character(clusterList$Neuron[clusterList$Cluster == downstreamClusters[counterJ]]), col = 'red', soma=TRUE, db=dps)
-#print(paste("Cluster:", downstreamClusters[counterJ]))
+  #print(paste("Cluster:", downstreamClusters[counterJ]))
   
   # LHN CLUSTERS (J)
   #plot3dfc(as.character(LHN_clusterList$Neuron[LHN_clusterList$Cluster == LHNs[counterJ]]), col = 'red', soma=TRUE, db=dps)

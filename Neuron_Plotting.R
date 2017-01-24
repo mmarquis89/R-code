@@ -1,4 +1,6 @@
 
+### FOR PLOTTING INDIVIDUAL NEURONS BY FLYCIRCUIT ID ###
+
 setwd('C:/Users/Wilson Lab/Documents/R/R code')
 
 # Allow production of figures using RGL
