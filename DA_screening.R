@@ -21,6 +21,11 @@ lowConf <- c("TH-F-000007","TH-M-100021","TH-M-100041","TH-M-100044","TH-M-10007
              "TH-M-200062","TH-M-100010","TH-M-100008","TH-M-100006","TH-M-100005","TH-M-000069","TH-M-000042","TH-M-000031",
              "TH-F-300052","TH-F-300004","TH-F-200035","TH-F-100110","TH-F-100105","TH-F-000098","TH-F-000086","TH-F-000081",
              "TH-F-000037","TH-M-300048")
+allCells <-c("TH-F-000005","TH-F-000011","TH-M-000071","TH-M-000030","TH-M-000013","TH-F-300067","TH-F-100046","TH-F-000012",
+             "TH-F-100101", "TH-F-300078","TH-F-000007","TH-M-100021","TH-M-100041","TH-M-100044","TH-M-100071","TH-M-200035","TH-M-200052","TH-M-200056",
+             "TH-M-200062","TH-M-100010","TH-M-100008","TH-M-100006","TH-M-100005","TH-M-000069","TH-M-000042","TH-M-000031",
+             "TH-F-300052","TH-F-300004","TH-F-200035","TH-F-100110","TH-F-100105","TH-F-000098","TH-F-000086","TH-F-000081",
+             "TH-F-000037","TH-M-300048")
 regionLabels <- read.csv("RegionLabels.csv")
 
 # Initiate Plotting window
@@ -29,7 +34,7 @@ plot3d(FCWB)
 # Loop through plots
 counterI = 1
 
-currSet <- highConf
+currSet <- allCells
 
 mainLabels <- c("AL_L","AVLP_L","CRE_L","FLA_L","GNG",
                 "IB_L","ICL_L","IPS_L","IVLP_L","LAL_L",

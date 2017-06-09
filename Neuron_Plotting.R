@@ -1,7 +1,7 @@
 
 ### FOR PLOTTING INDIVIDUAL NEURONS BY FLYCIRCUIT ID ###
 
-setwd('C:/Users/Wilson Lab/Documents/R/R code')
+#setwd('C:/Users/Wilson Lab/Documents/R/R code')
 
 # Allow production of figures using RGL
 library(knitr)
@@ -16,7 +16,7 @@ library(nat.nblast)
 library(nat.flybrains)
 
 # Load data
-dps <-read.neuronlistfh('C://Users//Wilson Lab//Documents//R//R code//rpkg-flycircuit//data//dpscanon.rds')
+dps <-read.neuronlistfh('C://Users//Wilson Lab//Documents//R//rpkg-flycircuit//data//dpscanon.rds')
 LHNs <- read.csv("FlyCircuitLHNs.csv")
 clusterInfo <- read.csv("DownstreamClusters.csv")
 clusterList <- read.csv("DownstreamClusterList.csv")
@@ -43,8 +43,8 @@ lenJ <- length(downstreamClusters)
 targetNeuron = "fru-F-700078"
 
 mainLabels <- c("LH_L", "SIP_L", "SLP_L", "SMP_L", "AVLP_L", "CRE_L", "MB_ML_L", "MB_PED_L", "MB_VL_L", "PVLP_L", "SCL_L", "ICL_L", "IPS_L", "SPS_L") 
-activeLabels = mainLabels[c(10,11,12,13,14)]
-al <- 0.5
+activeLabels = mainLabels[c(1,11,12,13,14)] #mainLabels[c(10,11,12,13,14)]
+al <- 0.3
 
 while (TRUE){
   
@@ -54,7 +54,7 @@ while (TRUE){
   }
   
   # Plot selected neuron
-  plot3dfc(targetNeuron, col = 'red', soma = TRUE, db=dps)
+  plot3dfc(targetNeuron, col = 'blue', soma = TRUE, db=dps)
   #print(paste("Cluster:", targetCluster))
   
   neuronIn <- type.convert(readline(prompt="Enter neuron to plot, 'x' to exit "), as.is=TRUE)
