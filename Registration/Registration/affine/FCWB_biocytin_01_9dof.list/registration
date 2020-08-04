@@ -1,0 +1,13 @@
+! TYPEDSTREAM 2.4
+
+registration {
+	reference_study "refbrain/FCWB.nrrd"
+	floating_study "images/biocytin_01.nrrd"
+	affine_xform {
+		xlate -82.60137243 -0.2281014291 -20.2 
+		rotate 11.18981546 -1.349126687 -4.247092394 
+		scale 1.037127162 0.9126419707 1.532155995 
+		shear 0 0 0 
+		center 281.9671085 163.1938375 53.5 
+	}
+}

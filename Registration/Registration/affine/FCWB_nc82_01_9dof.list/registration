@@ -1,0 +1,13 @@
+! TYPEDSTREAM 2.4
+
+registration {
+	reference_study "refbrain/FCWB.nrrd"
+	floating_study "images/nc82_01.nrrd"
+	affine_xform {
+		xlate -85.80137243 -11.82810143 -25 
+		rotate 0.07936039336 5.551115123e-17 -1.710634436 
+		scale 1.036399179 0.8070843519 1.171076141 
+		shear 0 0 0 
+		center 281.9671085 163.1938375 53.5 
+	}
+}

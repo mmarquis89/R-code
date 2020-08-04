@@ -1,0 +1,12 @@
+Package: natviewer
+Title: Convenient functions for using NAT.
+Version: 0.0.0.9000
+Authors@R: person("Jenny", "Lu", email = "jennylu2014@gmail.com", role = c("aut", "cre"))
+Description: Contains convenient functions for using the NAT toolbox as well as
+    the flycircuit package.
+Depends:
+    R (>= 3.3.1)
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 5.0.1
