@@ -52,3 +52,4 @@ Temporary Items
 *.nrrd
 Registration/images/biocytin_01.nrrd
 *.gz
+*.RData
